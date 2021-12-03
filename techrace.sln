@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "techrace", "techrace\techrace.csproj", "{39A15DFE-3D48-4903-83E4-3EF78AA4618C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "techraceTests", "techraceTests\techraceTests.csproj", "{9F4CEC50-5600-40E6-A0B3-410E0D2B4303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A15DFE-3D48-4903-83E4-3EF78AA4618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A15DFE-3D48-4903-83E4-3EF78AA4618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A15DFE-3D48-4903-83E4-3EF78AA4618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A15DFE-3D48-4903-83E4-3EF78AA4618C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4CEC50-5600-40E6-A0B3-410E0D2B4303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4CEC50-5600-40E6-A0B3-410E0D2B4303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4CEC50-5600-40E6-A0B3-410E0D2B4303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4CEC50-5600-40E6-A0B3-410E0D2B4303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3AFB34-8BC7-4FD2-82C6-4C0E98D358A4}
+	EndGlobalSection
+EndGlobal
